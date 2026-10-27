@@ -1,0 +1,70 @@
+{
+  "age": "28",
+  "campaign": "cmvql2zi0",
+  "cls": "추격 운전사",
+  "gender": "남성",
+  "hp": 16,
+  "insp": 1,
+  "items": [
+    "여분 차량 열쇠",
+    "휴대용 공구함",
+    "보스의 빚 장부"
+  ],
+  "joined": 1793099444495,
+  "look": "기름 묻은 방수 점퍼를 입은 흑항의 평범한 20대 인간 남성.",
+  "maxHp": 16,
+  "name": "서강호",
+  "pgoal": "계약서를 길드에 넘겨 빚을 탕감받고, 실패하면 빚 독촉을 받는다.",
+  "portrait": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"256\" height=\"256\">\n<defs>\n<linearGradient id=\"bg\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n<stop offset=\"0\" stop-color=\"#1b1f33\"/>\n<stop offset=\"1\" stop-color=\"#4a2b3f\"/>\n</linearGradient>\n<radialGradient id=\"glow\" cx=\"0.75\" cy=\"0.25\" r=\"0.5\">\n<stop offset=\"0\" stop-color=\"#ffb347\" stop-opacity=\"0.55\"/>\n<stop offset=\"1\" stop-color=\"#ffb347\" stop-opacity=\"0\"/>\n</radialGradient>\n</defs>\n<rect width=\"256\" height=\"256\" fill=\"url(#bg)\"/>\n<rect width=\"256\" height=\"256\" fill=\"url(#glow)\"/>\n<g fill=\"#10131f\" opacity=\"0.8\">\n<rect x=\"0\" y=\"120\" width=\"30\" height=\"136\"/>\n<rect x=\"34\" y=\"90\" width=\"26\" height=\"166\"/>\n<rect x=\"196\" y=\"100\" width=\"28\" height=\"156\"/>\n<rect x=\"228\" y=\"130\" width=\"28\" height=\"126\"/>\n</g>\n<g fill=\"#ffcf70\">\n<rect x=\"40\" y=\"105\" width=\"4\" height=\"5\"/>\n<rect x=\"48\" y=\"125\" width=\"4\" height=\"5\"/>\n<rect x=\"203\" y=\"115\" width=\"4\" height=\"5\"/>\n<rect x=\"236\" y=\"145\" width=\"4\" height=\"5\"/>\n</g>\n<path d=\"M28 256 L34 214 Q50 192 98 186 L158 186 Q206 192 222 214 L228 256 Z\" fill=\"#2f5a63\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<path d=\"M28 256 L34 214 Q42 200 60 194 L70 256 Z\" fill=\"#244850\"/>\n<path d=\"M108 186 L128 222 L148 186 Z\" fill=\"#1d2230\" stroke=\"#10131f\" stroke-width=\"2\"/>\n<path d=\"M98 186 L128 236 L118 256 L72 256 L70 200 Z\" fill=\"#3a6c76\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<path d=\"M158 186 L128 236 L138 256 L184 256 L186 200 Z\" fill=\"#3a6c76\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<line x1=\"128\" y1=\"236\" x2=\"128\" y2=\"256\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<ellipse cx=\"88\" cy=\"238\" rx=\"10\" ry=\"5\" fill=\"#16191f\" opacity=\"0.7\"/>\n<ellipse cx=\"170\" cy=\"228\" rx=\"8\" ry=\"4\" fill=\"#16191f\" opacity=\"0.7\"/>\n<rect x=\"112\" y=\"160\" width=\"32\" height=\"32\" fill=\"#d9a07c\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<path d=\"M112 176 Q128 186 144 176 L144 164 L112 164 Z\" fill=\"#b57f5e\"/>\n<ellipse cx=\"82\" cy=\"126\" rx=\"9\" ry=\"14\" fill=\"#e0aa86\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<ellipse cx=\"174\" cy=\"126\" rx=\"9\" ry=\"14\" fill=\"#e0aa86\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<path d=\"M86 100 Q86 66 128 64 Q170 66 170 100 L170 132 Q168 166 128 176 Q88 166 86 132 Z\" fill=\"#e8b392\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<path d=\"M150 110 Q168 120 166 140 Q164 160 140 172 Q160 150 150 110 Z\" fill=\"#c98d6b\" opacity=\"0.6\"/>\n<path d=\"M80 108 Q74 58 124 52 Q180 48 178 104 Q170 84 150 82 Q130 90 104 80 Q90 84 86 112 Z\" fill=\"#2a1d1a\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<path d=\"M120 54 Q112 40 134 40 Q142 46 140 54 Z\" fill=\"#2a1d1a\" stroke=\"#10131f\" stroke-width=\"2\"/>\n<path d=\"M98 100 Q112 92 122 100\" fill=\"none\" stroke=\"#10131f\" stroke-width=\"4\"/>\n<path d=\"M134 100 Q146 90 160 98\" fill=\"none\" stroke=\"#10131f\" stroke-width=\"4\"/>\n<ellipse cx=\"110\" cy=\"114\" rx=\"9\" ry=\"6\" fill=\"#ffffff\" stroke=\"#10131f\" stroke-width=\"2\"/>\n<ellipse cx=\"147\" cy=\"114\" rx=\"9\" ry=\"6\" fill=\"#ffffff\" stroke=\"#10131f\" stroke-width=\"2\"/>\n<circle cx=\"112\" cy=\"114\" r=\"4.5\" fill=\"#3b2a1e\"/>\n<circle cx=\"149\" cy=\"114\" r=\"4.5\" fill=\"#3b2a1e\"/>\n<circle cx=\"113\" cy=\"113\" r=\"1.5\" fill=\"#ffffff\"/>\n<circle cx=\"150\" cy=\"113\" r=\"1.5\" fill=\"#ffffff\"/>\n<path d=\"M126 118 Q122 134 128 138 Q134 138 136 136\" fill=\"none\" stroke=\"#a96f50\" stroke-width=\"3\"/>\n<path d=\"M108 152 Q130 160 154 148 Q150 164 130 164 Q114 162 108 152 Z\" fill=\"#7a2f2f\" stroke=\"#10131f\" stroke-width=\"2.5\"/>\n<path d=\"M112 153 Q130 158 150 150 L148 154 Q130 160 114 156 Z\" fill=\"#ffffff\"/>\n<path d=\"M150 146 Q158 144 160 138\" fill=\"none\" stroke=\"#10131f\" stroke-width=\"2.5\"/>\n<path d=\"M102 138 Q112 134 118 140 M142 136 Q152 130 160 136\" fill=\"none\" stroke=\"#b57f5e\" stroke-width=\"2\"/>\n<path d=\"M94 140 L98 150 M160 150 L164 142\" stroke=\"#8a6a52\" stroke-width=\"2\" opacity=\"0.6\"/>\n<ellipse cx=\"100\" cy=\"82\" rx=\"6\" ry=\"3\" fill=\"#16191f\" opacity=\"0.5\"/>\n<path d=\"M92 66 Q128 40 164 66 L164 74 Q128 54 92 74 Z\" fill=\"#c9482f\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<circle cx=\"108\" cy=\"62\" r=\"11\" fill=\"#9fd4e6\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<circle cx=\"148\" cy=\"62\" r=\"11\" fill=\"#9fd4e6\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<circle cx=\"108\" cy=\"62\" r=\"6\" fill=\"#d7f0f7\"/>\n<circle cx=\"148\" cy=\"62\" r=\"6\" fill=\"#d7f0f7\"/>\n<path d=\"M119 62 L137 62\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<rect x=\"190\" y=\"206\" width=\"38\" height=\"28\" fill=\"#c9482f\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<path d=\"M198 206 L198 198 Q198 192 209 192 Q220 192 220 198 L220 206\" fill=\"none\" stroke=\"#10131f\" stroke-width=\"3\"/>\n<rect x=\"190\" y=\"216\" width=\"38\" height=\"5\" fill=\"#7d2a1b\"/>\n<rect x=\"205\" y=\"214\" width=\"8\" height=\"9\" fill=\"#ffcf70\" stroke=\"#10131f\" stroke-width=\"2\"/>\n<circle cx=\"52\" cy=\"226\" r=\"6\" fill=\"none\" stroke=\"#ffcf70\" stroke-width=\"3\"/>\n<line x1=\"58\" y1=\"226\" x2=\"74\" y2=\"226\" stroke=\"#ffcf70\" stroke-width=\"3\"/>\n<line x1=\"68\" y1=\"226\" x2=\"68\" y2=\"232\" stroke=\"#ffcf70\" stroke-width=\"3\"/>\n</svg>",
+  "position": "보스에게 빚진 3년차 추격 운전사",
+  "race": "인간",
+  "relation": "나는 죽은 보스 밑에서 일할 때 계약서 상자를 날랐다.",
+  "rolls": {
+    "age": 3,
+    "cls": 5,
+    "clsN": 5,
+    "gender": 3,
+    "race": 1,
+    "raceN": 2,
+    "stats": {
+      "cha": 2,
+      "dex": 5,
+      "int": 3,
+      "sen": 4,
+      "str": 6
+    }
+  },
+  "skill": "차량 추격, 차량 정비, 골목 정보원",
+  "skills": [
+    {
+      "desc": "좁은 골목 차 몰기",
+      "name": "차량 추격",
+      "stat": "dex"
+    },
+    {
+      "desc": "시동 고장 즉석 수리",
+      "name": "차량 정비",
+      "stat": "int"
+    },
+    {
+      "desc": "밀수꾼에게 행방 캐기",
+      "name": "골목 정보원",
+      "stat": "cha"
+    }
+  ],
+  "spot": "뒷골목",
+  "spread": "normal",
+  "start": "빚을 갚을 돈을 벌려고 뒷골목에서 대기하던 중, 경매장 뒷문에서 검은 승합차가 급히 빠져나가는 것을 봤다. 그 차를 놓치면 두 세력이 나에게 책임을 묻는다.",
+  "stats": {
+    "cha": 1,
+    "dex": 2,
+    "int": 1,
+    "sen": 2,
+    "str": 3
+  },
+  "tie": "나는 보스에게 빚진 운전사로 계약서 상자를 날랐고, 그 상자를 되찾아 길드에 넘겨 빚을 갚으려 한다.",
+  "trait": {
+    "effect": "협상과 입찰 판정에 유리",
+    "name": "눈치"
+  }
+}
